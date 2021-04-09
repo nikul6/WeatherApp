@@ -1,0 +1,6 @@
+module Pods_WheatherApp_WheatherAppTests {
+  umbrella header "Pods-WheatherApp-WheatherAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
